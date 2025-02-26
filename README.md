@@ -3,9 +3,8 @@
   - design patterns to run software at scale
   - machine learning and machine-aided automation
 - 🌱 I’m currently learning
-  - the basics of GoLang
-  - Event Sourcing
-  - Reinforcement learning in python
+  - Building agents in LangChain
+  - The math behind Machine Learning / Deep Learning
   - German
 <!-- - 💞️ I’m looking to collaborate on -->
 - 📫 How to reach me 
